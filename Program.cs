@@ -1,4 +1,4 @@
-﻿using System.Data.OleDb;
+using System.Data.OleDb;
 using System.Configuration;
 using System.Data;
 using Figgle;
@@ -440,7 +440,7 @@ namespace COMP609_Assessment_2_LMS_Console_App
                                             Console.Write("Enter livestock ID: ");
                                             string userInput_ViewID = Console.ReadLine();
 
-                                            if (IsIDValid(userInput_ViewID, connection) && int.TryParse(userInput_ViewID, out int userInput_ViewIDValid))
+                                            if (IsIDValid(userInput_ViewID, connection) && int.TryParse(userInput_ViewID, out int userInput_ViewIDValid) && !string.IsNullOrEmpty(userInput_ViewID))
                                             {
                                                 string tableName = SelectedIDLivestockType(userInput_ViewID, connection);
 
@@ -470,12 +470,17 @@ namespace COMP609_Assessment_2_LMS_Console_App
                                                             }
                                                         }
                                                     }
-                                                    break;
                                                 }
-                                                else
-                                                {
-                                                    Console.WriteLine("Invalid livestock ID. Please enter a valid livestock ID.")
-                                                }
+                                                break;
+                                            }
+                                            else if (!IsIDValid(userInput_ViewID, connection) && int.TryParse(userInput_ViewID, out int userInput_ViewIDNotValid) && !string.IsNullOrEmpty(userInput_ViewID))
+                                            {
+                                                Console.WriteLine("Livestock ID not found.");
+                                                break;
+                                            }
+                                            else
+                                            {
+                                                Console.WriteLine("Invalid livestock ID. Please enter a valid livestock ID.");
                                             }
                                         }
                                         break;
