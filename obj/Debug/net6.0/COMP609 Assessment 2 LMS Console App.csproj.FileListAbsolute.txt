@@ -1,0 +1,136 @@
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.exe
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.deps.json
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.runtimeconfig.json
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Figgle.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.AssemblyReference.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfoInputs.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfo.cs
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CoreCompileInputs.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CopyComplete
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\refint\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.genruntimeconfig.cache
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\ref\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll.config
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.exe
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll.config
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.deps.json
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.runtimeconfig.json
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Figgle.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.AssemblyReference.cache
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfoInputs.cache
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfo.cs
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CoreCompileInputs.cache
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CopyComplete
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\refint\COMP609 Assessment 2 LMS Console App.dll
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.genruntimeconfig.cache
+D:\COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\ref\COMP609 Assessment 2 LMS Console App.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.exe
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll.config
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.deps.json
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.runtimeconfig.json
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Figgle.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Data.OleDb.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.AssemblyReference.cache
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.GeneratedMSBuildEditorConfig.editorconfig
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfoInputs.cache
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfo.cs
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CoreCompileInputs.cache
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CopyComplete
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\refint\COMP609 Assessment 2 LMS Console App.dll
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.genruntimeconfig.cache
+F:\COMP609 Application Development\Assessments\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\ref\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.exe
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll.config
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.deps.json
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.runtimeconfig.json
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Figgle.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.AssemblyReference.cache
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfoInputs.cache
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.AssemblyInfo.cs
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CoreCompileInputs.cache
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.csproj.CopyComplete
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\refint\COMP609 Assessment 2 LMS Console App.dll
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.pdb
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\COMP609 Assessment 2 LMS Console App.genruntimeconfig.cache
+C:\Users\tipzi\Desktop\[v1.1] COMP609 Assessment 2 LMS Console App\obj\Debug\net6.0\ref\COMP609 Assessment 2 LMS Console App.dll
