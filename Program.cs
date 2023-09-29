@@ -470,9 +470,13 @@ namespace COMP609_Assessment_2_LMS_Console_App
                                                             }
                                                         }
                                                     }
+                                                    break;
+                                                }
+                                                else
+                                                {
+                                                    Console.WriteLine("Invalid livestock ID. Please enter a valid livestock ID.")
                                                 }
                                             }
-                                            break;
                                         }
                                         break;
                                     case "3":
