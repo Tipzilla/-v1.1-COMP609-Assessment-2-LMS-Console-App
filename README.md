@@ -57,6 +57,6 @@
 
 Hamish Getty - [LinkedIn](https://www.linkedin.com/in/hamish-getty-596894269/)
 
-Project Link: [https://github.com/Tipzilla/LMS-GUI-App](https://github.com/Tipzilla/LMS-Console-App)
+Project Link: [https://github.com/Tipzilla/LMS-Console-App](https://github.com/Tipzilla/LMS-Console-App)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
