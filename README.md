@@ -7,7 +7,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">LMS GUI App</h3>
+<h3 align="center">LMS Console App</h3>
 
   <p align="center">
     The Livestock Management System is a project that I developed as part of a school 
